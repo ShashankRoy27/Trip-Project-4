@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Sep 2022 17:22:58 at https://tripindia.herokuapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tripindia.herokuapp.com/ -O1 "C:\My Web Sites\Tourism Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:23:00	Warning: 	FOUND for https://tripindia.herokuapp.com/
+17:23:00	Warning: 	File has moved from https://tripindia.herokuapp.com/ to https://tripindia.herokuapp.com/home
+17:23:36	Warning: 	FOUND for https://tripindia.herokuapp.com/touristdestination/
+17:23:36	Warning: 	File has moved from https://tripindia.herokuapp.com/touristdestination/ to https://tripindia.herokuapp.com/touristdestination/explore
+17:24:14	Warning: 	FOUND for https://tripindia.herokuapp.com/plan/
+17:24:14	Warning: 	File has moved from https://tripindia.herokuapp.com/plan/ to https://tripindia.herokuapp.com/plan/openingForm
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/elements/primary-check.png (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/elements/success-check.png (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/elements/disabled-check.png (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/elements/primary-radio.png (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/elements/success-radio.png (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/elements/disabled-radio.png (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/img/video-bg.jpg (from https://tripindia.herokuapp.com/static/assets/css/main.css)
+17:24:15	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/static/assets/css/owl.video.play.png (from https://tripindia.herokuapp.com/static/assets/css/owl.carousel.css)
+17:28:14	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/touristdestination/static/assets/img/blank.gif (from https://tripindia.herokuapp.com/touristdestination/static/assets/css/camera.css)
+17:28:14	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/touristdestination/static/assets/img/prevnext_bg.png (from https://tripindia.herokuapp.com/touristdestination/static/assets/css/camera.css)
+17:28:14	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/touristdestination/static/assets/img/prev.png (from https://tripindia.herokuapp.com/touristdestination/static/assets/css/camera.css)
+17:28:14	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/touristdestination/static/assets/img/next.png (from https://tripindia.herokuapp.com/touristdestination/static/assets/css/camera.css)
+17:28:14	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/touristdestination/static/assets/img/thumb_bg.png (from https://tripindia.herokuapp.com/touristdestination/static/assets/css/camera.css)
+17:28:14	Error: 	"NOT FOUND" (404) at link https://tripindia.herokuapp.com/touristdestination/static/assets/img/count_icon.png (from https://tripindia.herokuapp.com/touristdestination/static/assets/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 47 seconds : 602 links scanned, 584 files written (245377728 bytes overall) [245473706 bytes received at 603129 bytes/sec], 116395 bytes transferred using HTTP compression in 2 files, ratio 34%, 22.4 requests per connection
+(14 errors, 6 warnings, 0 messages)
